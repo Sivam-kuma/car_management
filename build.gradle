@@ -24,7 +24,7 @@ dependencies {
     implementation 'jakarta.validation:jakarta.validation-api:3.0.2' // Use the latest version available
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa:3.1.4' // Ensure version matches your Spring Boot version
     implementation 'org.postgresql:postgresql:42.6.0'
-
+    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0'
     implementation 'org.springframework.boot:spring-boot-starter-web-services'
     implementation 'org.springframework.boot:spring-boot-starter-webflux'
     implementation 'org.springframework.session:spring-session-core'
